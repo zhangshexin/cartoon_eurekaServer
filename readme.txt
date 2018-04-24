@@ -1,0 +1,1 @@
+java -jar  xxx.jar --spring.profiles.active=peer1#启用哪个
