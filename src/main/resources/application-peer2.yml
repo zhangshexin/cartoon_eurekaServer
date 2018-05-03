@@ -8,6 +8,3 @@ eureka:
     fetch-registry: false
     service-url:
       defaultZone: http://peer1:${server.port}/eureka/
-spring:
-  profiles:
-    active: peer2
